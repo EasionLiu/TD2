@@ -59,7 +59,7 @@ let Gwave = original_Gwave;
 
 
 let gem = 0;
-let coin = 10000;
+let coin = 1000000000000;
 let wave = 1;
 let lost = false;
 let waveActive = false;
