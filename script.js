@@ -59,8 +59,8 @@ let Gwave = original_Gwave;
 
 
 let gem = 0;
-let coin = 80;
-let wave = 100;
+let coin = 10000;
+let wave = 1;
 let lost = false;
 let waveActive = false;
 let bracePeriod = false;
